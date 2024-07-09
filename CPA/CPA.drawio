@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-09T08:42:00.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="qoSIy9VbQ-i2Xj8eI1Wo" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-09T09:27:41.032Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="snfEDgYqYlTZbGvaycdw" version="24.6.4" type="github">
   <diagram name="第 1 页" id="b9ewnj4fbWfrQU1S3j9y">
-    <mxGraphModel dx="1719" dy="-78" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="2448" dy="-143" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -348,6 +348,9 @@
             <mxPoint x="30" y="1570" as="sourcePoint" />
             <mxPoint x="40" y="1570" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ygCteEgVfBkpERLW6yav-43" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;\(T(s) = \frac{K_{pi} k_{PWM} (T_{ii}s + 1)}{T_{ii}s (1 + T_{PWM}s) (L_d s + R_d) + K_{pi} k_{PWM} A_i (T_{ii}s + 1)}\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-539.365" y="1779.521" width="799.211" height="31.496" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
