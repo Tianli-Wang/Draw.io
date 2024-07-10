@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T03:40:06.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="NOZ3z1_O6m9tykb58sDj" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-10T03:40:16.225Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="A-A1FkBu4D4reViZ60_-" version="24.6.4" type="github">
   <diagram name="第 1 页" id="b9ewnj4fbWfrQU1S3j9y">
-    <mxGraphModel dx="2519" dy="-78" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="2421" dy="-215" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -713,7 +713,7 @@
         <mxCell id="1k46m61FyPbMGYAflVbG-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1k46m61FyPbMGYAflVbG-91" target="1k46m61FyPbMGYAflVbG-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1k46m61FyPbMGYAflVbG-91" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;\(G_{v}(s)\)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="1k46m61FyPbMGYAflVbG-91" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;\(G_{x}(s)\)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-1598.4189999999999" y="2728.341" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1k46m61FyPbMGYAflVbG-93" value="" style="group;rotation=45;" vertex="1" connectable="0" parent="1">
