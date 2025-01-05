@@ -1254,7 +1254,7 @@
         <mxCell id="8a6bz9LZfpmEMfT7BvcU-4" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;labelBackgroundColor=none;fillColor=default;strokeColor=default;fontColor=default;rounded=1;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=15;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="-912" y="1382" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8a6bz9LZfpmEMfT7BvcU-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="8a6bz9LZfpmEMfT7BvcU-6" target="8a6bz9LZfpmEMfT7BvcU-4">
+        <mxCell id="8a6bz9LZfpmEMfT7BvcU-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#000000;fontColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;endArrow=classic;curved=0;" edge="1" parent="1" source="8a6bz9LZfpmEMfT7BvcU-6" target="8a6bz9LZfpmEMfT7BvcU-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8a6bz9LZfpmEMfT7BvcU-6" value="&lt;div style=&quot;text-align: start;&quot;&gt;$$\omega_{0}$$&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
@@ -1296,7 +1296,7 @@
         <mxCell id="8a6bz9LZfpmEMfT7BvcU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#000000;fontColor=default;curved=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;endArrow=classic;" edge="1" parent="1" source="8a6bz9LZfpmEMfT7BvcU-18" target="8a6bz9LZfpmEMfT7BvcU-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8a6bz9LZfpmEMfT7BvcU-18" value="PLL-PI电路" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;fontStyle=1;labelBackgroundColor=none;fillColor=default;strokeColor=default;fontColor=default;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="8a6bz9LZfpmEMfT7BvcU-18" value="&lt;font face=&quot;Times New Roman&quot;&gt;PLL-PI&lt;/font&gt;电路" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=15;fontStyle=1;labelBackgroundColor=none;fillColor=default;strokeColor=default;fontColor=default;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="-719" y="1497" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8a6bz9LZfpmEMfT7BvcU-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#000000;fontColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;endArrow=classic;curved=0;" edge="1" parent="1" source="8a6bz9LZfpmEMfT7BvcU-20" target="8a6bz9LZfpmEMfT7BvcU-16">
